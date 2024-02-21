@@ -34,3 +34,16 @@ justify-content: space-between;
 .mainPic{
     width:100%;
 }
+.navbar1{
+    /* border: solid pink; */
+padding: 10px;
+display: flex;
+justify-content: space-between;
+
+
+}
+.leftArow{
+    letter-spacing: 2;
+    height:15px;
+
+}
